@@ -1,0 +1,10 @@
+1. Counts the number of non-zero values in the array
+2. How to create an empty and a full NumPy array?
+3. Find the number of rows and columns of a given matrix using NumPy
+4. Find the sum of values in a matrix
+5. Calculate the sum of the diagonal elements of a NumPy array 3*3 and 4*4
+6. How to inverse a matrix using NumPy
+7. Matrix Multiplication in NumPy
+8. Get the maximum and minimum value from given matrix
+9. Adding and Subtracting Matrices in Python.
+10. How to count the frequency of unique values in NumPy array?
